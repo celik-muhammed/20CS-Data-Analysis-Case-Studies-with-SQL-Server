@@ -21,8 +21,8 @@
 
 
 <table align="center">
-    <caption><div align='center'>Data Analysis Projects with SQL</div></caption>
-<thead align='left'><tr><th>SQL Server Data Analysis Projects</th></tr></thead>
+    <caption><div align='center'>Data Analysis Case Studies with SQL</div></caption>
+<thead align='left'><tr><th>SQL Server Data Analysis Case Studies</th></tr></thead>
 <tbody>
 <tr>
   <td>
