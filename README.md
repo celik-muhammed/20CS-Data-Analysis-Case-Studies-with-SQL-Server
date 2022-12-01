@@ -26,7 +26,31 @@
 <tbody>
 <tr>
   <td>
-    <a href="./01-eCommerceData-Data-Analysis">01. E-CommerceData Data Analysis Projects</a>
+    <a href="./01-Assignments/RDB_SQL-Assignment-1-Manufacturer-Charlies_Chocolate_Factory.sql">01. Manufacturer Charlies Chocolate Factory</a>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="./01-Assignments/RDB_SQL-Assignment-2-SampleRetail-Purchased_Product.sql">02. SampleRetail Purchased Product</a>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="./01-Assignments/RDB_SQL-Assignment-3-E-Commerce_Company-Conversion_Rate.sql">03. E-Commerce Company Conversion Rate</a>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="./01-Assignments/RDB_SQL-Assignment-4-SampleRetail-Discount-Effects.sql">04. SampleRetail Discount Effects.sql</a>
+    <br>
+    <a href="./01-Assignments/RDB_SQL-Assignment-4-SampleRetail-Discount-Effects.ipynb">04. SampleRetail Discount Effects Azure Data Studio</a>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="./01-Assignments/RDB_SQL-Assignment-5-Factorial-Function.sql">05. Factorial Function</a>
+    <br>    
+    <a href="./01-Assignments/RDB_SQL-Assignment-5-Factorial-Function.ipynb">05. Factorial Function Azure Data Studio</a>
   </td>
 </tr>
 </tbody>
