@@ -15,7 +15,7 @@
 
 <h3 align='right'>
   
-[20P-Data-Analysis-Projects-with-SQL-Server](https://github.com/celik-muhammed/20P-Data-Analysis-Projects-with-SQL-Server/blob/master/README.md)
+[20P Data Analysis Projects with SQL Server](https://github.com/celik-muhammed/20P-Data-Analysis-Projects-with-SQL-Server/blob/master/README.md)
 </h3>
 
 
